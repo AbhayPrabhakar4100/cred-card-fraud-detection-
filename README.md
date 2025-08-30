@@ -59,10 +59,3 @@ Credit card fraud causes over **$28B in global losses annually**, requiring adva
 - Future: integrate temporal features, SMOTE/ADASYN, ensemble methods like autoencoders.
 
 
-
-## 📄 License
-
-MIT License (for academic use)
-
----
-
